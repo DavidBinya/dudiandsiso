@@ -1,0 +1,61 @@
+body{
+    background-color: #363636;
+    color: blanchedalmond;
+}
+
+.logo{
+    width: 75%;
+}
+
+td{
+    text-align: right;
+}
+
+p{
+    font-family: 'Amatic SC', cursive;
+    font-size: 3rem;
+}
+
+.box{
+    width: 50%;
+    font-family: 'Amatic SC', cursive;
+    font-size: 4rem;
+}
+
+.navbar-brand{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+
+.navbar{
+    padding: 0 0 4.5rem;
+}
+
+.nav-item{
+    padding: 0 18px;
+}
+
+.nav-link{
+    font-size: 1.2rem;
+    font-weight: 200;
+
+}
+
+.container-fluid{
+    padding: 7% 15%;
+    background-color: #363636
+}
+
+a{
+    color: black;
+}
+
+.navbar-toggler{
+    margin-left: 45%;
+}
+
+.nav-pic{
+    width: 25%;
+}
+
